@@ -1,0 +1,5 @@
+selenium
+django
+webdriver-manager
+requests
+beautifulsoup4
